@@ -1,6 +1,6 @@
 # Project-year2-sem2-practica-EY-RPA
 
-In year2 at university we had to go to a real 
+In year two at university we had to go to a real 
 world company for a week and make our own project 
 with the software that company uses/make software 
 for them.
